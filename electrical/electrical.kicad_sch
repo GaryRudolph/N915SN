@@ -1,0 +1,38 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e8ec215a-dbe2-4eba-a577-e50a0a128049)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Electrical Overview")
+    (date "2024-02-02")
+    (rev "0.1")
+    (company "N915SN Angry Bird")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 26.67 22.86) (size 20.32 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2dfb13c9-19ab-4b61-8910-6455da71626b)
+    (property "Sheetname" "Rotax" (at 26.67 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "rotax.kicad_sch" (at 26.67 48.8446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "electrical"
+        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

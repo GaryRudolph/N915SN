@@ -1,0 +1,17 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid df955e07-eb23-459a-ba68-8b5c45221dc5)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Rotax")
+    (date "2024-02-02")
+    (rev "0.1")
+    (company "N915SN Angry Bird")
+  )
+
+  (lib_symbols
+  )
+
+)
