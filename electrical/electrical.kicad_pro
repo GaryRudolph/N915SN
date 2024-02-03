@@ -334,6 +334,14 @@
     [
       "2852c073-fbc9-4469-a6bf-ba3e911c7f5a",
       "Power"
+    ],
+    [
+      "633b5331-dc3f-449e-8212-24f89753723c",
+      "PFD"
+    ],
+    [
+      "a7d1a714-f940-4397-adef-d76b5058aa57",
+      "Navigator"
     ]
   ],
   "text_variables": {}
