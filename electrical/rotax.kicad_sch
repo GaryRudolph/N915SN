@@ -1246,7 +1246,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid ce5eb59f-1fd9-41e2-8034-6c47df24e869)
   )
-  (hierarchical_label "AIRCRAFT_AMPS_LO" (shape output) (at 109.22 63.5 0) (fields_autoplaced)
+  (hierarchical_label "AIRCRAFT_AMPS_LO" (shape passive) (at 109.22 63.5 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid eba46d87-cb2a-4342-9d76-6774c47f5278)
   )
