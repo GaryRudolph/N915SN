@@ -344,6 +344,14 @@
       "EIS"
     ],
     [
+      "67540fe5-9b6d-4d8c-9d03-cde1487f48ae",
+      "Multifunction"
+    ],
+    [
+      "facdf550-4f2c-4387-974e-24c6900d900d",
+      "Communication"
+    ],
+    [
       "3b1a4f6e-9608-4bfb-9e9e-83eb56f4de97",
       "Transponder"
     ],
@@ -352,16 +360,8 @@
       "Navigator"
     ],
     [
-      "67540fe5-9b6d-4d8c-9d03-cde1487f48ae",
-      "Multifunction"
-    ],
-    [
       "bd38efb0-077c-4462-9d19-e07b49d43233",
       "Autopilot"
-    ],
-    [
-      "facdf550-4f2c-4387-974e-24c6900d900d",
-      "Communication"
     ],
     [
       "48a12913-72eb-4799-affe-c13d493e804a",
