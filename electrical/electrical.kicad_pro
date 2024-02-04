@@ -354,6 +354,10 @@
     [
       "67540fe5-9b6d-4d8c-9d03-cde1487f48ae",
       "Multifunction"
+    ],
+    [
+      "bd38efb0-077c-4462-9d19-e07b49d43233",
+      "Autopilot"
     ]
   ],
   "text_variables": {}
