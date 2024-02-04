@@ -1479,7 +1479,7 @@
   (symbol (lib_id "flyerx:Ray_Allen_POS-12") (at 99.06 274.32 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 859822b7-c86f-47db-9f3f-da691283c09d)
-    (property "Reference" "ELEVATOR_TRIM_POS" (at 95.25 271.78 0)
+    (property "Reference" "PITCH_TRIM_POS" (at 95.25 271.78 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 105.41 271.78 0)
@@ -1497,7 +1497,7 @@
     (instances
       (project "electrical"
         (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049/72184f52-5cc1-469a-bd6f-4bd63aea59bf"
-          (reference "ELEVATOR_TRIM_POS") (unit 1)
+          (reference "PITCH_TRIM_POS") (unit 1)
         )
       )
     )

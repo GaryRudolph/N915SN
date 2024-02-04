@@ -1895,7 +1895,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8b6a365c-d887-4a06-babe-befd322076cf)
   )
-  (hierarchical_label "TRIM_SLATS_PWR" (shape output) (at 62.23 152.4 0) (fields_autoplaced)
+  (hierarchical_label "TRIM_FLAPS_PWR" (shape output) (at 62.23 152.4 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8d976560-fab3-4e2b-9157-e1a71b243d81)
   )
