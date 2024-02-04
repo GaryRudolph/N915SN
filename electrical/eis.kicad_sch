@@ -1,0 +1,17 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e36dea69-be93-412e-96d5-f1ba1f35ad99)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "EIS")
+    (date "2024-02-03")
+    (rev "0.5")
+    (company "N915SN Angry Bird")
+  )
+
+  (lib_symbols
+  )
+
+)
