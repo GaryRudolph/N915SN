@@ -5,7 +5,7 @@
   (paper "USLetter" portrait)
 
   (title_block
-    (title "Multifunction Flaps, Lights & Trim")
+    (title "Flaps, Lights & Trim")
     (date "2024-02-03")
     (rev "0.5")
     (company "N915SN Angry Bird")
