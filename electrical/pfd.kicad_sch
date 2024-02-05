@@ -1256,7 +1256,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 96d74c44-30af-4732-a9b7-942edb3874f3)
   )
-  (text "i.e. GPS174\nMapMX\nFormat 2" (at 182.88 132.08 0)
+  (text "i.e. GPS175\nMapMX\nFormat 2" (at 182.88 132.08 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 9e3191e8-8b92-4f2a-a7b5-7c5c83d52fe1)
   )
