@@ -1782,7 +1782,7 @@
   (symbol (lib_id "flyerx:Garmin_GDU4XX") (at 17.78 17.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3aa43c8-2563-4d09-ab76-ea38367ffa77)
-    (property "Reference" "GDU45X" (at 34.925 15.24 0)
+    (property "Reference" "GDU450" (at 34.925 15.24 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 20.32 17.78 0)
@@ -1849,7 +1849,7 @@
     (instances
       (project "electrical"
         (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049/633b5331-dc3f-449e-8212-24f89753723c"
-          (reference "GDU45X") (unit 1)
+          (reference "GDU450") (unit 1)
         )
       )
     )
