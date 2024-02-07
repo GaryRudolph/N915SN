@@ -1273,7 +1273,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bc8c8a09-5209-4ab9-8922-b80623c0ac3f)
   )
-  (text "Garmin Instrument Data\nPage 24-13" (at 82.55 35.56 0)
+  (text "To GSU 25\nGarmin Instrument Data\nPage 24-13" (at 82.55 35.56 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bf4a0b7d-3f1a-487f-aff1-4f6de01e2f07)
   )

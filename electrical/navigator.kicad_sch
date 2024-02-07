@@ -857,7 +857,7 @@
     (uuid ffc526e1-6e4c-4cec-8774-ec28ebe8379c)
   )
 
-  (text "NMEA\nPage 24-25?" (at 96.52 95.25 0)
+  (text "To ELT\nNMEA\nPage 24-25?" (at 96.52 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 11298043-d338-466a-bf02-7a3976b8a9c9)
   )
@@ -865,7 +865,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3137c1c0-135f-4672-8de1-f0596c198d3c)
   )
-  (text "Connext\n57600" (at 97.79 87.63 0)
+  (text "To GDU 450\nConnext 57600" (at 97.79 87.63 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5897a8ba-1694-49ad-aa62-8bc896bb627e)
   )
