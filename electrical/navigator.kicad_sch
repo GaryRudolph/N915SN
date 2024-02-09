@@ -4,6 +4,11 @@
 
   (paper "A" portrait)
 
+  (title_block
+    (date "2024-02-08")
+    (rev "0.9")
+  )
+
   (lib_symbols
     (symbol "Device:Antenna" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "AE" (at -1.905 1.905 0)
