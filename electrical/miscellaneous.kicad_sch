@@ -64,6 +64,10 @@
     (uuid ec6afb16-0d1b-400c-9d58-e91e8621e4bd)
   )
 
+  (hierarchical_label "GPS_SERIAL_GND" (shape passive) (at 147.32 92.71 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 0d455ef1-5bb4-4bfe-b170-7c587a9cb715)
+  )
   (hierarchical_label "GND_BUS" (shape passive) (at 147.32 86.36 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2212fd66-5e9c-4380-a6ff-167e9eaeafaf)

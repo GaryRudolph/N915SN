@@ -674,7 +674,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3e781b12-355a-41ae-a0a4-68bb4481fcf7)
   )
-  (hierarchical_label "GND_BUS" (shape passive) (at 88.9 46.99 0) (fields_autoplaced)
+  (hierarchical_label "GND_BUS" (shape input) (at 88.9 46.99 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 468bcd2b-f8f2-4d76-a47b-f7ae4feb2e0d)
   )
