@@ -6,8 +6,8 @@
 
   (title_block
     (title "PFD & ADAHRS")
-    (date "2024-02-08")
-    (rev "0.9")
+    (date "2024-02-13")
+    (rev "0.91")
     (company "N915SN Angry Bird")
   )
 
@@ -1015,10 +1015,6 @@
     (stroke (width 0) (type default))
     (uuid 7848ce0b-569c-44f0-9146-f81957da5081)
   )
-  (wire (pts (xy 62.23 80.01) (xy 68.58 80.01))
-    (stroke (width 0) (type default))
-    (uuid 7f09f1fd-5865-49af-bdf3-9c99aba626b1)
-  )
   (wire (pts (xy 133.35 182.88) (xy 157.48 182.88))
     (stroke (width 0) (type default))
     (uuid 807c6283-2ceb-4e55-8b30-e6180c643a8b)
@@ -1363,10 +1359,6 @@
   (hierarchical_label "GMU11_BAK_PWR" (shape input) (at 151.13 22.86 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 25aefab4-dbfe-40f8-a655-19a8f8d8d56b)
-  )
-  (hierarchical_label "GDU4XX_LIGHTING_HI" (shape input) (at 68.58 80.01 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 28fc1fd6-4b7a-4c24-9692-fa13388a0fd0)
   )
   (hierarchical_label "CANBUS_HI_OUT" (shape output) (at 133.35 226.06 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))

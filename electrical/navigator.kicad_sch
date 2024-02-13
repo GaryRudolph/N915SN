@@ -5,8 +5,8 @@
   (paper "A" portrait)
 
   (title_block
-    (date "2024-02-08")
-    (rev "0.9")
+    (date "2024-02-13")
+    (rev "0.91")
   )
 
   (lib_symbols
@@ -669,10 +669,6 @@
     (stroke (width 0) (type default))
     (uuid 23422519-2fa9-4e0b-985d-006d6c53fd96)
   )
-  (wire (pts (xy 64.77 153.67) (xy 74.93 153.67))
-    (stroke (width 0) (type default))
-    (uuid 23c083f1-e8b4-48e0-ab40-f46e5bc7a687)
-  )
   (wire (pts (xy 130.81 53.34) (xy 158.75 53.34))
     (stroke (width 0) (type default))
     (uuid 2d8c2020-7bcd-4491-9da8-8372b5b8cfab)
@@ -952,10 +948,6 @@
   (hierarchical_label "ELT_SERIAL_OUT" (shape output) (at 73.66 92.71 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 78b2c32e-c768-47f4-a516-660cefae5c0f)
-  )
-  (hierarchical_label "LIGHTING_HI" (shape input) (at 74.93 153.67 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 80f68e3d-0755-4377-8482-cf8abbd85b35)
   )
   (hierarchical_label "ADSB_ETHERNET_OUT_A" (shape output) (at 74.93 142.24 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
