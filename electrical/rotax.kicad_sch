@@ -1027,7 +1027,7 @@
     (property "Reference" "ALT_CB" (at 142.24 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "30A" (at 142.24 69.85 0)
+    (property "Value" "25A" (at 142.24 69.85 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 142.24 67.31 0)
