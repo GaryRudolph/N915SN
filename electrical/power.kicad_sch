@@ -2791,7 +2791,7 @@
   (symbol (lib_id "Device:Fuse") (at 172.72 195.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 434486aa-28a4-468d-8bf8-849b25a8ee38)
-    (property "Reference" "GMC507_FS1" (at 172.72 191.77 90)
+    (property "Reference" "SMOKE_LT_FS" (at 172.72 191.77 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "1" (at 172.72 193.04 90)
@@ -2808,7 +2808,7 @@
     (instances
       (project "electrical"
         (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049/2852c073-fbc9-4469-a6bf-ba3e911c7f5a"
-          (reference "GMC507_FS1") (unit 1)
+          (reference "SMOKE_LT_FS") (unit 1)
         )
       )
     )
