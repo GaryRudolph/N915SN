@@ -2319,10 +2319,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "POSITION_PWR" (shape input) (at 167.64 160.02 180) (fields_autoplaced)
+  (global_label "NAV_PWR" (shape input) (at 167.64 160.02 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 77735fa2-91dd-46b2-bed7-d453f891bf09)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 151.0476 160.02 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 156.1881 160.02 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -2661,7 +2661,7 @@
   (symbol (lib_id "FlyerX:Bulb") (at 179.07 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2337cb29-5e37-4b98-8a37-eb6c6be5a772)
-    (property "Reference" "POSITION_LT1" (at 170.18 154.94 0)
+    (property "Reference" "NAV_LT1" (at 170.18 154.94 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Clear" (at 180.34 160.02 0)
@@ -2678,7 +2678,7 @@
     (instances
       (project "electrical"
         (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049/2852c073-fbc9-4469-a6bf-ba3e911c7f5a"
-          (reference "POSITION_LT1") (unit 1)
+          (reference "NAV_LT1") (unit 1)
         )
       )
     )
@@ -3366,7 +3366,7 @@
   (symbol (lib_id "FlyerX:Bulb") (at 179.07 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ade7b526-46bc-42cd-b7b7-611fe72e2338)
-    (property "Reference" "POSITION_LT2" (at 170.18 163.83 0)
+    (property "Reference" "NAV_LT2" (at 170.18 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Clear" (at 180.34 165.1 0)
@@ -3383,7 +3383,7 @@
     (instances
       (project "electrical"
         (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049/2852c073-fbc9-4469-a6bf-ba3e911c7f5a"
-          (reference "POSITION_LT2") (unit 1)
+          (reference "NAV_LT2") (unit 1)
         )
       )
     )
@@ -3548,7 +3548,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 64.77 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bfc8a69a-fbab-4b06-8199-db75148cb96f)
-    (property "Reference" "POSITION_SW" (at 74.93 78.74 0)
+    (property "Reference" "NAV_SW" (at 74.93 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "~" (at 64.77 74.93 0)
@@ -3565,7 +3565,7 @@
     (instances
       (project "electrical"
         (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049/2852c073-fbc9-4469-a6bf-ba3e911c7f5a"
-          (reference "POSITION_SW") (unit 1)
+          (reference "NAV_SW") (unit 1)
         )
       )
     )
