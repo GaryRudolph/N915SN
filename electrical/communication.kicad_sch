@@ -7,8 +7,9 @@
   (title_block
     (title "Communication")
     (date "2024-03-15")
-    (rev "0.9.2")
+    (rev "1.0")
     (company "N915SN Angry Bird")
+    (comment 1 "w/Breakers")
   )
 
   (lib_symbols
@@ -1275,7 +1276,7 @@
   (symbol (lib_id "flyerx:SW_3P3T_Rotary") (at 148.59 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4a890d01-27f0-45f8-b016-798dc215ff2b)
-    (property "Reference" "SW1" (at 147.955 105.41 0)
+    (property "Reference" "AUDIO_SW" (at 147.955 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 142.24 107.95 0)
@@ -1302,7 +1303,7 @@
     (instances
       (project "electrical"
         (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049/facdf550-4f2c-4387-974e-24c6900d900d"
-          (reference "SW1") (unit 1)
+          (reference "AUDIO_SW") (unit 1)
         )
       )
     )

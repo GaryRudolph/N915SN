@@ -7,8 +7,9 @@
   (title_block
     (title "Electrical Overview")
     (date "2024-03-15")
-    (rev "0.9.2")
+    (rev "1.0")
     (company "N915SN Angry Bird")
+    (comment 1 "w/Breakers")
   )
 
   (lib_symbols
@@ -893,6 +894,23 @@
     )
   )
 
+  (sheet (at 175.26 135.89) (size 46.99 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1b135381-3ea1-4e14-ae97-d4f35cdfb602)
+    (property "Sheetname" "Multifunction" (at 175.26 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "multifunction.kicad_sch" (at 175.26 158.0646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "electrical"
+        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 53.34 29.21) (size 39.37 107.95) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -1171,7 +1189,7 @@
     )
     (instances
       (project "electrical"
-        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "8"))
+        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "9"))
       )
     )
   )
@@ -1204,7 +1222,7 @@
     )
     (instances
       (project "electrical"
-        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "11"))
+        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "12"))
       )
     )
   )
@@ -1535,7 +1553,7 @@
     )
     (instances
       (project "electrical"
-        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "9"))
+        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "10"))
       )
     )
   )
@@ -1592,7 +1610,7 @@
     )
     (instances
       (project "electrical"
-        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "10"))
+        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "11"))
       )
     )
   )
@@ -1661,7 +1679,7 @@
     )
     (instances
       (project "electrical"
-        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "7"))
+        (path "/e8ec215a-dbe2-4eba-a577-e50a0a128049" (page "8"))
       )
     )
   )

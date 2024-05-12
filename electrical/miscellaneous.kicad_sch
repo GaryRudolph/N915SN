@@ -7,8 +7,9 @@
   (title_block
     (title "Miscellaneous")
     (date "2024-02-13")
-    (rev "0.9.1")
+    (rev "1.0")
     (company "N915SN Angry Bird")
+    (comment 1 "w/Breakers")
   )
 
   (lib_symbols

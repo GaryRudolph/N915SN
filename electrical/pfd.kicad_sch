@@ -7,8 +7,9 @@
   (title_block
     (title "PFD & ADAHRS")
     (date "2024-02-13")
-    (rev "0.9.1")
+    (rev "1.0")
     (company "N915SN Angry Bird")
+    (comment 1 "w/Breakers")
   )
 
   (lib_symbols
@@ -1240,7 +1241,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0164f645-6723-44b2-a5c9-6b6c435121b5)
   )
-  (text "Using SXM from GDL52R" (at 66.04 142.24 0)
+  (text "Using SXM from GDL51R" (at 66.04 142.24 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 078a18db-56e9-4e47-a7ca-a69b86bde8e8)
   )
@@ -1273,7 +1274,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bf4a0b7d-3f1a-487f-aff1-4f6de01e2f07)
   )
-  (text "To GDL 52R\nConnect 57600\nPage 24-24" (at 97.79 85.09 0)
+  (text "To GDL 51R\nConnect 57600\nPage 24-24" (at 97.79 85.09 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d5b9abc7-da4d-4385-87ad-c2f7855c6ebb)
   )

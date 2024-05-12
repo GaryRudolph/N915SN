@@ -6,7 +6,8 @@
 
   (title_block
     (date "2024-02-13")
-    (rev "0.9.1")
+    (rev "1.0")
+    (comment 1 "w/Breakers")
   )
 
   (lib_symbols
