@@ -6,8 +6,8 @@
 
   (title_block
     (title "EIS")
-    (date "2024-03-15")
-    (rev "1.0")
+    (date "2024-05-20")
+    (rev "1.0.1")
     (company "N915SN Angry Bird")
     (comment 1 "w/Breakers")
   )
