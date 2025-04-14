@@ -261,11 +261,15 @@
   (no_connect (at 204.47 53.34) (uuid 381186f3-85af-4207-8e46-cd1d3845b66e))
   (no_connect (at 55.88 62.23) (uuid 416afe13-4238-40a1-8fb6-0a0bfc18d126))
   (no_connect (at 55.88 59.69) (uuid 45ea7e22-ce6d-4cca-b6e2-b1712f8d98d1))
+  (no_connect (at 55.88 97.79) (uuid 55f56014-0723-41db-be68-e1ecee956ca0))
   (no_connect (at 204.47 50.8) (uuid 5829fc4d-96cd-40d3-ae61-488047d22f6d))
+  (no_connect (at 55.88 34.29) (uuid 5a56d18d-d07a-404a-9c74-2e5bf2d63c09))
+  (no_connect (at 55.88 100.33) (uuid 6a50200a-397d-4015-b3ee-fedf09c436c8))
   (no_connect (at 55.88 123.19) (uuid 8d82d8f2-dafb-47e2-99cf-263dc6a07150))
   (no_connect (at 55.88 64.77) (uuid 9cbbcc57-0035-4028-92d7-4fa8efd0e4c9))
   (no_connect (at 55.88 57.15) (uuid af858218-599c-4f66-858f-9f2342e02482))
   (no_connect (at 57.15 187.96) (uuid b3df4948-c164-477d-a433-b35252b813d1))
+  (no_connect (at 55.88 36.83) (uuid c82f82d9-1872-4fcc-a82f-a70a5489194a))
   (no_connect (at 55.88 180.34) (uuid d9ebf688-f38a-4ee3-9913-0679c7c9701f))
   (no_connect (at 55.88 125.73) (uuid ed027b9c-2e83-42ba-ba04-c8a33e003dfa))
 
@@ -460,6 +464,14 @@
   (wire (pts (xy 58.42 120.65) (xy 58.42 128.27))
     (stroke (width 0) (type default))
     (uuid ff2b0f93-c6ff-42fb-bfd5-571d4cca41d8)
+  )
+
+  (text_box "SportAir Wired\n1 CAN H\n2 CAN L\n3 CAN TERM 1\n4 CAN TERM 2\n9 GROUND\n10 POWER\n15 CWS"
+    (at 84.455 97.79 0) (size 16.51 17.145)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 3d3941a0-095a-42b3-b1a1-c36209b8a3d7)
   )
 
   (text "Canbus Termination" (at 67.31 160.02 0)

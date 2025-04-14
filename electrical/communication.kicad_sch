@@ -292,10 +292,10 @@
       )
     )
     (symbol "flyerx:Garmin_GTR20" (in_bom yes) (on_board yes)
-      (property "Reference" "GTR" (at 3.81 1.27 0)
+      (property "Reference" "GTR20" (at 14.605 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "" (at -6.35 0 0)
+      (property "Value" "~" (at -6.35 0 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at -6.35 0 0)
@@ -442,7 +442,7 @@
         )
         (pin bidirectional line (at 39.37 -10.16 180) (length 10.16)
           (name "CAN_BUS_HI" (effects (font (size 1.27 1.27))))
-          (number "P2001_8" (effects (font (size 1.27 1.27))))
+          (number "P2001_7" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 39.37 -96.52 180) (length 10.16)
           (name "ID_IN" (effects (font (size 1.27 1.27))))
@@ -1118,6 +1118,14 @@
     (uuid ff79779e-172c-4ed7-a0f3-135ceb7f8d5a)
   )
 
+  (text_box "GTR20\n 1 Power\n 6 Can Bus Lo\n 7 Can Bus Hi\n10 Receiver Audio Out Hi\n11 Copilot HS Right\n12 Copilot HS Left\n13 Pilot HS Right\n14 Pilot HS Left\n15 Copilot PTT\n16 Copilot Mic In\n17 Pilot Mic In\n18 Music In Right\n19 Music In Left\n20 Ground\n29 Receiver Audio Lo\n30 Copilot hs Lo\n31 Aux 1 Lo\n32 Aux Mono In 1\n33 Pilot HS Lo\n34 Copilot Mic Lo\n35 Pilot PTT\n36 Pilot Mic Lo\n37 Music Lo"
+    (at 127 13.97 0) (size 27.305 50.8)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid aa9fa8e0-a56b-49fb-8ce2-c1b35a0a64ad)
+  )
+
   (global_label "GND" (shape passive) (at 99.06 95.25 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 04adc940-e3eb-407c-a3fc-2c6878b4e7a9)
@@ -1356,7 +1364,7 @@
     (pin "P2001_5" (uuid ed05d011-f36d-4f68-a4a8-28cd56ef15b0))
     (pin "P2001_6" (uuid 06d5bed2-07b4-4e07-8665-5642efc7f6d8))
     (pin "P2001_8" (uuid 13bd6d7d-0d57-417f-8a05-666db3f66700))
-    (pin "P2001_8" (uuid ab06f1ba-c47c-4e57-820f-f9fda55ae728))
+    (pin "P2001_7" (uuid ab06f1ba-c47c-4e57-820f-f9fda55ae728))
     (pin "P2001_9" (uuid dd6609e6-93b1-47b7-b0e5-43c41bea1ed2))
     (instances
       (project "electrical"
